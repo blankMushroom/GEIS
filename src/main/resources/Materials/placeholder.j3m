@@ -1,0 +1,5 @@
+Material placeholder : Common/MatDefs/Misc/Unshaded.j3md {
+    MaterialParameters {
+        ColorMap: MagNearest "Textures/placeholder.png"
+    }
+}

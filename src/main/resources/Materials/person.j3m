@@ -1,0 +1,5 @@
+Material Person : Common/MatDefs/Misc/Unshaded.j3md {
+    MaterialParameters {
+        ColorMap: MagNearest "Textures/PersonTextures/baseperson.png"
+    }
+}
